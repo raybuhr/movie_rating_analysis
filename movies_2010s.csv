@@ -1,0 +1,174 @@
+title,year,type,critics_score,audience_score
+Toy Story 3,2010,both,98,89
+Alice in Wonderland,2010,top_ten_box_office_hit,51,55
+Harry Potter and the Deathly Hallows - Part 1,2010,top_ten_box_office_hit,77,85
+Inception,2010,both,87,91
+Shrek Forever After,2010,top_ten_box_office_hit,58,54
+The Twilight Saga: Eclipse,2010,top_ten_box_office_hit,48,60
+Iron Man 2,2010,top_ten_box_office_hit,73,71
+Tangled,2010,top_ten_box_office_hit,89,87
+Despicable Me,2010,top_ten_box_office_hit,81,82
+How to Train Your Dragon,2010,top_ten_box_office_hit,99,91
+Harry Potter and the Deathly Hallows – Part 2,2011,top_ten_box_office_hit,96,89
+Transformers: Dark of the Moon,2011,top_ten_box_office_hit,35,55
+Pirates of the Caribbean: On Stranger Tides,2011,top_ten_box_office_hit,33,54
+The Twilight Saga: Breaking Dawn – Part 1,2011,top_ten_box_office_hit,25,60
+Mission: Impossible – Ghost Protocol,2011,top_ten_box_office_hit,93,76
+Kung Fu Panda 2,2011,top_ten_box_office_hit,81,74
+Fast Five,2011,top_ten_box_office_hit,77,83
+The Hangover Part II,2011,top_ten_box_office_hit,33,52
+The Smurfs,2011,top_ten_box_office_hit,22,44
+Cars 2,2011,top_ten_box_office_hit,39,49
+The Avengers,2012,top_ten_box_office_hit,92,91
+Skyfall,2012,top_ten_box_office_hit,92,86
+The Dark Knight Rises,2012,top_ten_box_office_hit,87,90
+The Hobbit: An Unexpected Journey,2012,top_ten_box_office_hit,64,83
+Ice Age: Continental Drift,2012,top_ten_box_office_hit,37,62
+The Twilight Saga: Breaking Dawn – Part 2,2012,top_ten_box_office_hit,49,70
+The Amazing Spider-Man,2012,top_ten_box_office_hit,72,77
+Madagascar 3: Europe's Most Wanted,2012,top_ten_box_office_hit,79,72
+The Hunger Games,2012,top_ten_box_office_hit,84,81
+Men in Black 3,2012,top_ten_box_office_hit,68,70
+Frozen,2013,top_ten_box_office_hit,56,57
+Iron Man 3,2013,top_ten_box_office_hit,79,78
+Despicable Me 2,2013,top_ten_box_office_hit,75,85
+The Hobbit: The Desolation of Smaug,2013,top_ten_box_office_hit,74,85
+The Hunger Games: Catching Fire,2013,top_ten_box_office_hit,89,89
+Fast & Furious 6,2013,top_ten_box_office_hit,70,84
+Monsters University,2013,top_ten_box_office_hit,80,81
+Gravity,2013,both,96,80
+Man of Steel,2013,top_ten_box_office_hit,56,75
+Thor: The Dark World,2013,top_ten_box_office_hit,67,76
+Transformers: Age of Extinction,2014,top_ten_box_office_hit,18,51
+The Hobbit: The Battle of the Five Armies,2014,top_ten_box_office_hit,59,74
+Guardians of the Galaxy,2014,top_ten_box_office_hit,91,92
+Maleficent,2014,top_ten_box_office_hit,53,70
+The Hunger Games: Mockingjay – Part 1,2014,top_ten_box_office_hit,69,71
+X-Men: Days of Future Past,2014,top_ten_box_office_hit,90,91
+Captain America: The Winter Soldier,2014,top_ten_box_office_hit,90,92
+Dawn of the Planet of the Apes,2014,top_ten_box_office_hit,91,88
+The Amazing Spider-Man 2,2014,top_ten_box_office_hit,52,64
+Interstellar,2014,top_ten_box_office_hit,72,85
+Star Wars: The Force Awakens,2015,top_ten_box_office_hit,93,86
+Jurassic World,2015,top_ten_box_office_hit,72,78
+Furious 7,2015,top_ten_box_office_hit,81,82
+Avengers: Age of Ultron,2015,top_ten_box_office_hit,75,83
+Minions,2015,top_ten_box_office_hit,55,49
+Spectre,2015,top_ten_box_office_hit,63,61
+Inside Out,2015,top_ten_box_office_hit,98,89
+Mission: Impossible – Rogue Nation,2015,top_ten_box_office_hit,93,87
+The Hunger Games: Mockingjay – Part 2,2015,top_ten_box_office_hit,70,66
+The Martian,2015,both,91,91
+Captain America: Civil War,2016,top_ten_box_office_hit,91,89
+Rogue One: A Star Wars Story,2016,top_ten_box_office_hit,84,86
+Finding Dory,2016,top_ten_box_office_hit,94,84
+Zootopia,2016,top_ten_box_office_hit,97,92
+The Jungle Book,2016,top_ten_box_office_hit,95,86
+The Secret Life of Pets,2016,top_ten_box_office_hit,73,62
+Batman v Superman: Dawn of Justice,2016,top_ten_box_office_hit,28,63
+Fantastic Beasts and Where to Find Them,2016,top_ten_box_office_hit,74,79
+Deadpool,2016,top_ten_box_office_hit,84,90
+Suicide Squad,2016,top_ten_box_office_hit,27,59
+Star Wars: The Last Jedi,2017,top_ten_box_office_hit,91,44
+Beauty and the Beast,2017,top_ten_box_office_hit,71,80
+The Fate of the Furious,2017,top_ten_box_office_hit,67,72
+Despicable Me 3,2017,top_ten_box_office_hit,58,54
+Jumanji: Welcome to the Jungle,2017,top_ten_box_office_hit,76,87
+Spider-Man: Homecoming,2017,top_ten_box_office_hit,92,87
+Wolf Warrior 2,2017,top_ten_box_office_hit,69,77
+Guardians of the Galaxy Vol. 2,2017,top_ten_box_office_hit,84,87
+Thor: Ragnarok,2017,top_ten_box_office_hit,93,87
+Wonder Woman,2017,top_ten_box_office_hit,82,78
+Avengers: Infinity War,2018,top_ten_box_office_hit,85,91
+Black Panther,2018,both,97,79
+Jurassic World: Fallen Kingdom,2018,top_ten_box_office_hit,48,49
+Incredibles 2,2018,top_ten_box_office_hit,94,84
+Aquaman,2018,top_ten_box_office_hit,65,75
+Bohemian Rhapsody,2018,both,61,86
+Venom,2018,top_ten_box_office_hit,29,80
+Mission: Impossible – Fallout,2018,top_ten_box_office_hit,97,88
+Deadpool 2,2018,top_ten_box_office_hit,83,85
+Fantastic Beasts: The Crimes of Grindelwald,2018,top_ten_box_office_hit,37,55
+Avengers: Endgame,2019,top_ten_box_office_hit,94,91
+The Lion King,2019,top_ten_box_office_hit,93,93
+Spider-Man: Far From Home,2019,top_ten_box_office_hit,90,95
+Captain Marvel,2019,top_ten_box_office_hit,78,53
+Toy Story 4,2019,top_ten_box_office_hit,97,94
+Aladdin,2019,top_ten_box_office_hit,57,94
+Hobbs & Shaw,2019,top_ten_box_office_hit,67,88
+Ne Zha,2019,top_ten_box_office_hit,86,98
+The Wandering Earth,2019,top_ten_box_office_hit,75,52
+How to Train Your Dragon: The Hidden World,2019,top_ten_box_office_hit,91,87
+The King's Speech,2010,oscar_nomination,95,92
+127 Hours,2010,oscar_nomination,93,85
+Black Swan,2010,oscar_nomination,80,73
+The Fighter,2010,oscar_nomination,91,89
+The Kids Are All Right,2010,oscar_nomination,93,74
+The Social Network,2010,oscar_nomination,96,86
+True Grit,2010,oscar_nomination,88,84
+Winter's Bone,2010,oscar_nomination,94,76
+The Artist,2011,oscar_nomination,95,87
+The Descendants,2011,oscar_nomination,89,79
+Extremely Loud & Incredibly Close,2011,oscar_nomination,46,61
+The Help,2011,oscar_nomination,76,89
+Hugo,2011,oscar_nomination,93,78
+Midnight in Paris,2011,oscar_nomination,93,83
+Moneyball,2011,oscar_nomination,94,86
+The Tree of Life,2011,oscar_nomination,84,60
+War Horse,2011,oscar_nomination,75,74
+Argo,2012,oscar_nomination,96,90
+Amour,2012,oscar_nomination,93,82
+Beasts of the Southern Wild,2012,oscar_nomination,87,76
+Django Unchained,2012,oscar_nomination,86,91
+Les Misérables,2012,oscar_nomination,69,79
+Life of Pi,2012,oscar_nomination,87,84
+Lincoln,2012,oscar_nomination,89,80
+Silver Linings Playbook,2012,oscar_nomination,92,86
+Zero Dark Thirty,2012,oscar_nomination,92,80
+12 Years a Slave,2013,oscar_nomination,95,90
+American Hustle,2013,oscar_nomination,92,74
+Captain Phillips,2013,oscar_nomination,93,89
+Dallas Buyers Club,2013,oscar_nomination,93,91
+Her,2013,oscar_nomination,94,82
+Nebraska,2013,oscar_nomination,91,83
+Philomena,2013,oscar_nomination,90,89
+The Wolf of Wall Street,2013,oscar_nomination,79,82
+Birdman or (The Unexpected Virtue of Ignorance),2014,oscar_nomination,91,77
+American Sniper,2014,oscar_nomination,72,84
+Boyhood,2014,oscar_nomination,97,80
+The Grand Budapest Hotel,2014,oscar_nomination,91,86
+The Imitation Game,2014,oscar_nomination,89,91
+Selma,2014,oscar_nomination,99,86
+The Theory of Everything,2014,oscar_nomination,79,84
+Whiplash,2014,oscar_nomination,93,94
+Spotlight,2015,oscar_nomination,97,93
+The Big Short,2015,oscar_nomination,88,87
+Bridge of Spies,2015,oscar_nomination,91,87
+Brooklyn,2015,oscar_nomination,97,87
+Mad Max: Fury Road,2015,oscar_nomination,97,85
+The Revenant,2015,oscar_nomination,79,84
+Room,2015,oscar_nomination,26,47
+Moonlight,2016,oscar_nomination,98,79
+Arrival,2016,oscar_nomination,94,82
+Fences,2016,oscar_nomination,92,75
+Hacksaw Ridge,2016,oscar_nomination,85,91
+Hell or High Water,2016,oscar_nomination,97,88
+Hidden Figures,2016,oscar_nomination,93,93
+La La Land,2016,oscar_nomination,91,81
+Lion,2016,oscar_nomination,85,91
+Manchester by the Sea,2016,oscar_nomination,96,77
+The Shape of Water,2017,oscar_nomination,92,72
+Call Me by Your Name,2017,oscar_nomination,95,86
+Darkest Hour,2017,oscar_nomination,85,82
+Dunkirk,2017,oscar_nomination,92,81
+Get Out,2017,oscar_nomination,98,86
+Lady Bird,2017,oscar_nomination,99,79
+Phantom Thread,2017,oscar_nomination,91,70
+The Post,2017,oscar_nomination,88,73
+"Three Billboards Outside Ebbing, Missouri",2017,oscar_nomination,90,87
+Green Book,2018,oscar_nomination,78,91
+BlacKkKlansman,2018,oscar_nomination,96,82
+The Favourite,2018,oscar_nomination,93,68
+Roma,2018,oscar_nomination,96,71
+A Star Is Born,2018,oscar_nomination,90,79
+Vice,2018,oscar_nomination,66,59
